@@ -42,6 +42,7 @@ class NetworkEx1 {
 
 			for(int i=0; i < ipArr.length; i++) {
 				System.out.println("ipArr["+i+"] :" + ipArr[i]);
+				
 			}			
 		} catch (UnknownHostException e) {
 			e.printStackTrace();
